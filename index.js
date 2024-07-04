@@ -1,3 +1,8 @@
+for (let index = 1; index < 11; index = index +1) {
+    console.log(index)   
+ }
+
+
 for (let index = 10; index > 0 ; index = index -1) {
     console.log(index)
 
